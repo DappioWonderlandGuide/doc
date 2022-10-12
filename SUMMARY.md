@@ -20,7 +20,7 @@ tags: devgitbook
     - Add Tulip Vaults
 
 ## REFERENCE
-  - [Githu](github.md)
+  - [Github](github.md)
   - Typedoc
   - Rustdoc
 
