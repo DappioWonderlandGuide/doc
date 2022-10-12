@@ -5,6 +5,6 @@ tags: devgitbook
 
 # Github
 
-# Typedoc
+Typedoc
 
-# Rustdoc
+Rustdoc
