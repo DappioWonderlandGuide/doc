@@ -15,10 +15,13 @@ tags: devgitbook
 ## BUILD ON FRAMEWORK
   - [Setup](setup.md)
   - [How to Build on Framework](how-to-build-on-framework.md)
-
+    - Add Raydium Farms
+    - Add Orca Farms
+    - Add Tulip Vaults
 
 ## REFERENCE
   - [Github](github.md)
-
+  - Typedoc
+  - Rustdoc
 
 
