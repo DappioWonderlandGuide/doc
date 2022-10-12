@@ -5,20 +5,20 @@ tags: devgitbook
 # Table of contents
 
 ## DAPPIO
-  - [Welcome](welcome.md)
+- [Welcome](welcome.md)
 
 ## OVERVIEW
-  - [Introduction](introduction.md)
-  - [Ecosystem](ecosystem.md)
-  - [Architecture](architecture.md)
+- [Introduction](introduction.md)
+- [Ecosystem](ecosystem.md)
+- [Architecture](architecture.md)
 
 ## BUILD ON FRAMEWORK
-  - [Setup](setup.md)
-  - [How to Build on Framework](how-to-build-on-framework.md)
+- [Setup](setup.md)
+- [How to Build on Framework](how-to-build-on-framework.md)
 
 
 ## REFERENCE
-  - [Github](github.md)
+- [Github](github.md)
 
 
 
