@@ -9,8 +9,8 @@ tags: devgitbook
 
 
 - [Introduction](introduction.md)
-- [Ecosystem](ecosystem.md)
 - [Architecture](architecture.md)
+- [Ecosystem](ecosystem.md)
 
 
 - [Setup](setup.md)
