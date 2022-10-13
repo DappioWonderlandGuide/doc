@@ -13,15 +13,12 @@ tags: devgitbook
 - It’s a CaaS (Composability-as-a-Service) that standardizes inter-protocol interaction on Solana to unlock the potential of composability
 - It’s a common knowledge base that helps Solana community learn and improve
 
-(Link)
-
 
 ## Adapter (For Protocols / Projects)
 
 Imagine it as a mobile Adapter that can be plugged into any kind of iOS/Android mobile, the Adapters here can also do that. Protocol Devs can build their own adapters to support new future teams who want to build specific functions. (i.e. use Pool Adapters to “add liquidity” in “Raydium” Pool.) The advantage of Adapters helps protocol increase adoption by DeFi users/community on Solana.
 
 
-(Link)
 
 
  
