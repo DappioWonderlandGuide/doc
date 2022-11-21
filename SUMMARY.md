@@ -16,4 +16,4 @@ tags: docs
 
 - [Architecture](architecture.md)
 - [Workflow](workflow.md)
-- [Environment Setup](setup.md)
+- [Environment Setup](envsetup.md)
