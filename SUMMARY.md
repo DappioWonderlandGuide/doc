@@ -15,6 +15,5 @@ tags: docs
 
 ## Implemtation Guide (For Protocol Developers)
 
-- [Architecture](architecture.md)
 - [Workflow](workflow.md)
 - [Environment Setup](envsetup.md)
