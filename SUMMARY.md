@@ -12,7 +12,7 @@ tags: docs
 ## Usage Guide (For All Developers)
 
 - [Quick Start](quickstart.md)
-- [Example 1: Building a Simple Aggregator](example-1/summary.md)
+- [Example 1: Building a Simple Aggregator](example-1/example-1.md)
   - [Setup](example-1/setup.md)
   - [Part 1](example-1/part-1.md)
   - [Part 2](example-1/part-2.md)
