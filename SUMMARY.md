@@ -1,24 +1,19 @@
 ---
-tags: devgitbook
+tags: docs
 ---
 
-# Table of contents
+# Table of Contents
 
+- [Motivation](motivation.md)
+- [Overview](overview.md)
+- [References](references.md)
 
-- [Welcome](welcome.md)
+## Usage Guide (For All Developers)
 
+- [Quick Start](quickstart.md)
 
-- [Introduction](introduction.md)
+## Implemtation Guide (For Protocol Developers)
+
 - [Architecture](architecture.md)
-- [Ecosystem](ecosystem.md)
-
-
-- [Setup](setup.md)
-- [How to Build on Framework](how-to-build-on-framework.md)
-
-
-
-- [Reference](reference.md)
-
-
-
+- [Workflow](workflow.md)
+- [Environment Setup](setup.md)
