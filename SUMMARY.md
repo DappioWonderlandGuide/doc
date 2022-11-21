@@ -21,7 +21,7 @@ tags: docs
 ## Implemtation Guide (For Protocol Developers)
 
 - [Workflow](workflow.md)
-- [Example 2: Implementing an Adapter for Genopets Farm](example-2/summary.md)
+- [Example 2: Implementing an Adapter for Genopets Farm](example-2/example-2.md)
   - [Setup](example-2/setup.md)
   - [Part 1](example-2/part-1.md)
   - [Part 2](example-2/part-2.md)
