@@ -4,6 +4,8 @@ tags: docs
 
 # Motivation [WIP]
 
+> TODO
+
 One of the challenges people often talk about when it comes to Solana is its composability. While some programs are open source, majority aren't, making it almost impossible to build projects on Solana with mass adoption potential. Interacting with DeFi or NFTs on Solana shouldn't be hard, which is why Dappio created the Universal Rabbit Hole.
 
 Dappio is dedicated to making Solana easy and bringing top developers into the Solana ecosystem. Our Universal Rabbit Hole provides developers with a plug-and-play framework "gateway" for a basket of Dapps. Versatile enough to accommodate Farm, Vault, money market, and other DeFi needs, Universal Rabbit Hole empowers users to build their ideal projects on Solana.
