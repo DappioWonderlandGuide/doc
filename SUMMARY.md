@@ -13,10 +13,10 @@ tags: docs
 
 - [Quick Start](quickstart.md)
 - [Example 1: Building a Simple Aggregator](exampl1-sumary.md)
-  - Setup
-  - Part 1
-  - Part 2
-  - Part 3
+  - [Setup](example1-setup.md)
+  - [Part 1](example1-part1.md)
+  - [Part 2](example1-part2.md)
+  - [Part 3](example1-part3.md)
 
 ## Implemtation Guide (For Protocol Developers)
 
