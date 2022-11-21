@@ -2,11 +2,9 @@
 tags: docs
 ---
 
-# Deep Dive: Architecture [WIP]
+# Architecture [WIP]
 
 > TODO
-
----
 
 There are two modules in Universal Rabbit Hole: **Navigator** and **Gateway**:
 
