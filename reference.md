@@ -1,12 +1,18 @@
 ---
-tags: devgitbook
+tags: docs
 ---
 
+# References [WIP]
 
-# Reference
+> TODO
 
-[Github](https://github.com/DappioWonderland/)
+## Codebase
 
-Typedoc
+- https://github.com/DappioWonderland/navigator
+- https://github.com/DappioWonderland/gateway
+- https://github.com/DappioWonderland/adapter-programs
 
-Rustdoc
+## Documentation
+
+- Typedoc
+- Rustdoc
