@@ -12,17 +12,17 @@ tags: docs
 ## Usage Guide (For All Developers)
 
 - [Quick Start](quickstart.md)
-- [Example 1: Building a Simple Aggregator](example1-summary.md)
-  - [Setup](example1-setup.md)
-  - [Part 1](example1-part1.md)
-  - [Part 2](example1-part2.md)
-  - [Part 3](example1-part3.md)
+- [Example 1: Building a Simple Aggregator](example-1/summary.md)
+  - [Setup](example-1/setup.md)
+  - [Part 1](example-1/part-1.md)
+  - [Part 2](example-1/part-2.md)
+  - [Part 3](example-1/part-3.md)
 
 ## Implemtation Guide (For Protocol Developers)
 
 - [Workflow](workflow.md)
-- [Example 2: Implementing an Adapter for Genopets Farm](example2-summary.md)
-  - Setup
-  - Part 1
-  - Part 2
-  - Part 3
+- [Example 2: Implementing an Adapter for Genopets Farm](example-2/summary.md)
+  - [Setup](example-2/setup.md)
+  - [Part 1](example-2/part-1.md)
+  - [Part 2](example-2/part-2.md)
+  - [Part 3](example-2/part-3.md)
