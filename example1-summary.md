@@ -2,9 +2,18 @@
 tags: docs
 ---
 
-# Example 1 - Summary
+# Example 1 - Summary [WIP]
 
 In this example, we will demonstrate **how to implement a simple aggregator** by using Universal Rabbit Hole, step by step.
+- The core logic is less than 100 lines of code
+  - `RaydiumFarm`
+  - `OrcaFarm`
+  - `TulupVault`
+- See how simple it is to use gateway to make your own aggregator
+- What's next?
+  - Develop higher level DeFi composability
+  - Explore other supported protocols
+  - Compose!
 
 #### Things you will be doing
 
