@@ -4,8 +4,8 @@ tags: docs
 
 # Table of Contents
 
-- [Motivation](motivation.md)
-- [Overview](overview.md)
+- [Introduction](introduction.md)
+- [Technical Overview](overview.md)
 - [References](references.md)
 
 ## Usage Guide (For All Developers)
