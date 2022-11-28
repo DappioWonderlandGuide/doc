@@ -4,6 +4,8 @@ tags: docs
 
 # Example 2 - Implement Navigator (Part 3) [WIP]
 
+> TODO
+
 > Here, we actually skip the gateway-program update part.
 
 - Client side typescript library
