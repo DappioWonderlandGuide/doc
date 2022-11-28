@@ -4,6 +4,8 @@ tags: docs
 
 # Example 2 - Implement Adapter and Gateway program (Part 2) [WIP]
 
+> TODO
+
 > Adapters are essential for the URH. Ideally, **it has to be implemented by the base program developer**
 
 - What is harvest type?
