@@ -4,6 +4,8 @@ tags: docs
 
 # Example 2 - Implement Gateway Client (Part 4) [WIP]
 
+> TODO
+
 - Client side typescript library
 - Write functions
 
