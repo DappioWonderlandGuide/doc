@@ -4,6 +4,7 @@ tags: docs
 
 # Table of Contents
 
+- [Get Started](README.md)
 - [Introduction](introduction.md)
 - [Technical Overview](overview.md)
 - [Workflow](workflow.md)
@@ -28,3 +29,14 @@ tags: docs
   - [Part 3: Implement Navigator](example-2/part-3.md)
   - [Part 4: Implement Gateway Client](example-2/part-4.md)
   - [Part 5: Write Test](example-2/part-5.md)
+
+<!--
+- Add some highlights in Introduction
+- Add an outline in Introduction
+- Add ecosystem diagram (in Technical Overview)
+- Add a paragraph in the begining of Technial Overview
+- Add deployed information in Supported Protocols
+- Add hyperlink for every URLs
+- Emphasize that URH = Navigator + Gateway
+- Add a intro section for example 2 to exaplain the motivation
+-->
