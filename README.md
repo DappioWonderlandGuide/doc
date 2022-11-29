@@ -2,7 +2,7 @@
 tags: docs
 ---
 
-# Get Started [WIP]
+# Official Documentation of Universal Rabbit Hole
 
 ![](https://hackmd.io/_uploads/HJwLPW9Ij.png)
 
