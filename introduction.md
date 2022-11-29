@@ -3,7 +3,6 @@ tags: docs
 ---
 
 # Introduction [WIP]
-![](https://hackmd.io/_uploads/HJwLPW9Ij.png)
 
 One of the challenges people often talk about when it comes to Solana is its composability. While some programs are open source, majority aren't, making it almost impossible to build projects on Solana with mass adoption potential. Interacting with DeFi or NFTs on Solana shouldn't be hard, which is why Dappio created the Universal Rabbit Hole.
 
