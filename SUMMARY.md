@@ -7,7 +7,7 @@ tags: docs
 - [Get Started](README.md)
 - [Introduction](introduction.md)
 - [Technical Overview](overview.md)
-- [Workflow](workflow.md)
+- [Anatomy of the Framework](anatomy.md)
 - [Supported Protocols](protocols.md)
 - [References](references.md)
 
@@ -22,6 +22,7 @@ tags: docs
 
 ## Implemtation Guide (For Protocol Developers)
 
+- [Workflow](workflow.md)
 - [Example 2: Implementing an Adapter for Genopets Farm](example-2/example-2.md)
   - [Setup](example-2/setup.md)
   - [Part 1: Mapping](example-2/part-1.md)
@@ -39,4 +40,5 @@ tags: docs
 - Add hyperlink for every URLs
 - Emphasize that URH = Navigator + Gateway
 - Add a intro section for example 2 to exaplain the motivation
+  - Workflow
 -->
