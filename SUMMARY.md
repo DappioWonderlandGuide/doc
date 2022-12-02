@@ -17,7 +17,7 @@ tags: docs
   - [Navigator](https://github.com/DappioWonderland/navigator)
   - [Gateway](https://github.com/DappioWonderland/gateway)
   - [Adapter Programs](https://github.com/DappioWonderland/adapter-programs)
-- [Documentation](references.md)
+- [Documentation](docs.md)
   - [Navigator](https://dappiowonderland.github.io/navigator)
   - [Gateway](https://dappiowonderland.github.io/gateway)
 
