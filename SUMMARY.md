@@ -18,9 +18,8 @@ tags: docs
   - [Gateway](https://github.com/DappioWonderland/gateway)
   - [Adapter Programs](https://github.com/DappioWonderland/adapter-programs)
 - [Documentation](references.md)
-  - [Navigator](https://github.com/DappioWonderland/navigator)
-  - [Gateway](https://github.com/DappioWonderland/gateway)
-  - [Adapter Programs](https://github.com/DappioWonderland/adapter-programs)
+  - [Navigator](https://dappiowonderland.github.io/navigator)
+  - [Gateway](https://dappiowonderland.github.io/gateway)
 
 ## Usage Guide (For All Developers)
 
@@ -44,12 +43,11 @@ tags: docs
 
 <!--
 - Add some highlights in Introduction
-- Add an outline in Introduction
+- ~~Add an outline in Introduction~~
 - Add ecosystem diagram (in Technical Overview)
 - Add a paragraph in the begining of Technial Overview
-- Add deployed information in Supported Protocols
+- ~~Add deployed information in Supported Protocols~~
 - Add hyperlink for every URLs
 - Emphasize that URH = Navigator + Gateway
-- Add a intro section for example 2 to exaplain the motivation
-  - Workflow
+- ~~Add a intro section (workflow) for example 2 to exaplain the motivation~~
 -->
