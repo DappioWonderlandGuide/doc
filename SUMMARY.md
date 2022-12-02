@@ -9,9 +9,18 @@ tags: docs
 - [Technical Overview](overview.md)
 - [Anatomy of the Framework](anatomy.md)
 - [Supported Protocols](protocols.md)
-- [References](references.md)
+- [FAQ](faq.md)
+
+## References
+
+- [Codebase](references.md)
   - [Navigator](https://github.com/DappioWonderland/navigator)
   - [Gateway](https://github.com/DappioWonderland/gateway)
+  - [Adapter Programs](https://github.com/DappioWonderland/adapter-programs)
+- [Documentation](references.md)
+  - [Navigator](https://github.com/DappioWonderland/navigator)
+  - [Gateway](https://github.com/DappioWonderland/gateway)
+  - [Adapter Programs](https://github.com/DappioWonderland/adapter-programs)
 
 ## Usage Guide (For All Developers)
 
