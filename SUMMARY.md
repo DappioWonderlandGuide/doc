@@ -10,6 +10,8 @@ tags: docs
 - [Anatomy of the Framework](anatomy.md)
 - [Supported Protocols](protocols.md)
 - [References](references.md)
+  - [Navigator](https://github.com/DappioWonderland/navigator)
+  - [Gateway](https://github.com/DappioWonderland/gateway)
 
 ## Usage Guide (For All Developers)
 
