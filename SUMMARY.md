@@ -9,37 +9,36 @@ tags: docs
 - [Technical Overview](overview.md)
 - [Anatomy of the Framework](anatomy.md)
 - [Supported Protocols](protocols.md)
-- [FAQ](faq.md)
 
 ## References
 
+- [Documentation](docs.md)
+  - [Navigator](https://dappiowonderland.github.io/navigator)
+  - [Gateway](https://dappiowonderland.github.io/gateway)
 - [Codebase](references.md)
   - [Navigator](https://github.com/DappioWonderland/navigator)
   - [Gateway](https://github.com/DappioWonderland/gateway)
   - [Adapter Programs](https://github.com/DappioWonderland/adapter-programs)
-- [Documentation](docs.md)
-  - [Navigator](https://dappiowonderland.github.io/navigator)
-  - [Gateway](https://dappiowonderland.github.io/gateway)
 
 ## Usage Guide (For All Developers)
 
 - [Quick Start](quickstart.md)
-- [Example 1: Building a Simple Aggregator](example-1/example-1.md)
-  - [Setup](example-1/setup.md)
-  - [Part 1: Add Raydium Farms](example-1/part-1.md)
-  - [Part 2: Add Orca Farms](example-1/part-2.md)
-  - [Part 3: Add Tulip Vaults](example-1/part-3.md)
+- [Tutorial 1: Building a Simple Aggregator](tutorial-1/tutorial-1.md)
+  - [Setup](tutorial-1/setup.md)
+  - [Part 1: Add Raydium Farms](tutorial-1/part-1.md)
+  - [Part 2: Add Orca Farms](tutorial-1/part-2.md)
+  - [Part 3: Add Tulip Vaults](tutorial-1/part-3.md)
 
 ## Implemtation Guide (For Protocol Developers)
 
 - [Workflow](workflow.md)
-- [Example 2: Implementing an Adapter for Genopets Farm](example-2/example-2.md)
-  - [Setup](example-2/setup.md)
-  - [Part 1: Mapping](example-2/part-1.md)
-  - [Part 2: Implement Adapter Program](example-2/part-2.md)
-  - [Part 3: Implement Navigator](example-2/part-3.md)
-  - [Part 4: Implement Gateway Client](example-2/part-4.md)
-  - [Part 5: Write Test](example-2/part-5.md)
+- [Tutorial 2: Implementing an Adapter for Genopets Farm](tutorial-2/tutorial-2.md)
+  - [Setup](tutorial-2/setup.md)
+  - [Part 1: Mapping](tutorial-2/part-1.md)
+  - [Part 2: Implement Adapter Program](tutorial-2/part-2.md)
+  - [Part 3: Implement Navigator](tutorial-2/part-3.md)
+  - [Part 4: Implement Gateway Client](tutorial-2/part-4.md)
+  - [Part 5: Write Test](tutorial-2/part-5.md)
 
 <!--
 - Add some highlights in Introduction
