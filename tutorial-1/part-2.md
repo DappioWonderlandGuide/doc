@@ -2,7 +2,7 @@
 tags: docs
 ---
 
-# Example 1 - Add Orca Farms (Part 2) [WIP]
+# Tutorial 1 - Add Orca Farms (Part 2) [WIP]
 
 In this part, we will continue to add Orca Farms. You will soon discover that **the interfaces are exactly identical no matter which protocol you are trying to access.**
 
