@@ -2,39 +2,30 @@
 tags: docs
 ---
 
-# Overview [WIP]
+# Technical verview [WIP]
 
-> TODO
+**We want developers to use DeFi elements as Lego blocks.** Universal Rabbit Hole enables developers to utilize various DeFi elements, such as Pool, Farm, Vault, to compose more complex operations without handling enormous amount of client SDK and inconsistent interfaces. 
 
-> See [this guide](https://guide.dappio.xyz/the-universal-rabbit-hole) and [this Medium Post](https://medium.com/dappio-wonderland/the-solution-to-composability-universal-rabbit-hole-28b817cc0fd4) for more details
-
-### What Does URH Solve?
-
-#### Without URH
+| Without URH | With URH |
+| - | - |
+| Protocols are **NOT** composable. Developers have to deal with new SDK when trying to integrate new protocol | **Protocols are composable**. Developers only have to learn the knowledge of Gateway client to start developing |
+| ![](https://hackmd.io/_uploads/HykS0teHi.png) | ![](https://hackmd.io/_uploads/SJzgZC-Hj.png) |
 
 > TODO: Redraw diagram
 
 > TODO: Add read part
 
-![](https://hackmd.io/_uploads/HykS0teHi.png)
-
-- **Protocols are not composable**
-- User has to deal with new SDK when trying to integrate new protocol
-
-#### With URH
-
 > TODO: Redraw diagram
 
 > TODO: Add Navigator in diagram
 
-![](https://hackmd.io/_uploads/SJzgZC-Hj.png)
-
-- **Protocols are composable**
-- User only has to deal with builder (Gateway client) and Gateway program
-
-**We want developers to use DeFi elements as Lego blocks.** Universal Rabbit Hole enables developers to utilize various DeFi elements, such as Pool, Farm, Vault, to compose more complex operations without handling enormous amount of client SDK and inconsistent interfaces. 
-
 ### You Just Need One Universal Interface. No More SDKs.
+
+- Universal Rabbit Hole consists of 4 modules.
+  - 2 modules are exposed, 2 modules are invisible to developers
+- Navigator and Gateway are the developer interfaces
+
+| Module | Functionality | 
 
 > TODO
 
