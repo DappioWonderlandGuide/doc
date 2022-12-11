@@ -7,7 +7,6 @@ tags: docs
 - [Get Started](README.md)
 - [Introduction](introduction.md)
 - [Technical Overview](overview.md)
-- [Anatomy of the Framework](anatomy.md)
 - [Supported Protocols](protocols.md)
 
 ## References
