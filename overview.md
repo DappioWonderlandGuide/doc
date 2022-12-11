@@ -39,7 +39,7 @@ While **Navigator** and **Gateway Client** are packaged into a npm module, **Gat
 
 ### Anatomy of the Gateway and Adapters
 
-![](https://hackmd.io/_uploads/H1IgnP7ui.png)
+![](https://hackmd.io/_uploads/ryFDCDQui.png)
 
 ![](https://hackmd.io/_uploads/rkZ6gRbSo.png)
 
